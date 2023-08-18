@@ -1,6 +1,6 @@
 :root{
-    --bcg-color: #001122;
-    --primary-color: #155e75;
+    --bcg-color: #e2edf7;
+    --primary-color: #2e9bbc;
     --border-radius: 8px;
     --secondary-color: #fff;
     --border-color: #7fb7c9;
@@ -9,7 +9,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 body{
